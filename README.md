@@ -2,15 +2,17 @@
 
 [![N|Solid](https://cdn5.vectorstock.com/i/thumbs/29/44/page-not-404-brain-error-vector-5972944.jpg)](github.com/storicax/CP-404BNF)
 
+404-BNF (404 Brain Not Found) is a project to complete the final project of the Pemrograman Bergerak in collaboration with GITS Indonesia
 
+-----
 ## Installation
 
-Direct Download this project or Clone with git
+Direct Download this project or using clone
 
 ```sh
 $ git clone https://github.com/storicax/CP-404BNF
 ```
-
+-----
 ## Contributing
 
 * [Muhammad Shefa Reynaldi](https://github.com/shefareynaldi)
