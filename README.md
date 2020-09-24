@@ -12,6 +12,12 @@ Direct Download this project or using clone
 ```sh
 $ git clone https://github.com/storicax/CP-404BNF.git
 ```
+#Note : Project yang baru pindah ke repository ini
+
+```sh
+$ git clonehttps://github.com/404BNF/Project-PB-404BNF.git
+```
+
 -----
 ## Contributing
 
